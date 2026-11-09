@@ -1,0 +1,23 @@
+# Максим Чистов
+
+Арт-директор [студии «Девять квадратов»](https://ninesquares.ru/).
+
+Проектирую сайты и интерфейсы, работаю с брендингом. С помощью ИИ превращаю идеи в небольшие работающие продукты — от первой мысли до интерфейса и установки.
+
+## Моя музыка
+
+Небольшой неофициальный плеер Яндекс Музыки для Mac. Цвета обложки, компактный режим, «Волна», любимые треки и очередь. Придумал и спроектировал для себя, затем довёл до публичного релиза с помощью Codex.
+
+[**Посмотреть проект →**](https://archetypetrickster-tech.github.io/moya-music/) · [Скачать для Mac](https://github.com/archetypetrickster-tech/moya-music/releases/latest/download/moya-music-macos.zip) · [Исходный код](https://github.com/archetypetrickster-tech/moya-music)
+
+[![Моя музыка — плеер, который меняет цвет вместе с обложкой](https://raw.githubusercontent.com/archetypetrickster-tech/moya-music/main/docs/assets/gallery.jpg)](https://archetypetrickster-tech.github.io/moya-music/)
+
+## Работа
+
+В «Девять квадратов» делаем сайты, брендинг, интерфейсы и внедряем ИИ в рабочие процессы бизнеса.
+
+[**ninesquares.ru ↗**](https://ninesquares.ru/)
+
+---
+
+*Art director at Nine Squares. Websites, branding, interfaces and small useful products built with AI assistance.*
