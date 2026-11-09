@@ -2,6 +2,8 @@
 
 Арт-директор [студии «Девять квадратов»](https://ninesquares.ru/).
 
+[Threads](https://www.threads.com/@ego_trickster) · [Instagram](https://www.instagram.com/ego_trickster/) · [ВКонтакте](https://vk.com/ego_trickster)
+
 Проектирую сайты и интерфейсы, работаю с брендингом. С помощью ИИ превращаю идеи в небольшие работающие продукты — от первой мысли до интерфейса и установки.
 
 ## Моя музыка
